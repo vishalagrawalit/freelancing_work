@@ -1,0 +1,6 @@
+Ms,Alice Anteater,25,F,3,100.
+Mr,Bob Badger,37,M,2,50.
+Cpl,Carol Carrot,45,F,2,75.
+,Dan Digger,30,M,1,20.
+Dr,Ernie Edwards,50,M,3,75.
+

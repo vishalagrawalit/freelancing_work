@@ -1,0 +1,4 @@
+Dizziness,20,70,1.
+Headache,5,5,3.
+Broken bone,5,25,2.
+
